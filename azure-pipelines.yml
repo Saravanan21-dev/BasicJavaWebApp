@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'azure-connection-devops'
 
   # Web app name
-  webAppName: 'app0021'
+  webAppName: 'javawebapp0021'
 
   # Environment name
-  environmentName: 'app0021'
+  environmentName: 'javawebapp0021'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
